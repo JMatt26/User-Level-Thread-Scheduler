@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/jaredmatthews/McGill/McGill/McGill Fall 2023/ECSE 427/Assignments/Assignment 2/Support" -B "/Users/jaredmatthews/McGill/McGill/McGill Fall 2023/ECSE 427/Assignments/Assignment 2/Support/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/jaredmatthews/McGill/McGill/McGill Fall 2023/ECSE 427/Assignments/Assignment 2/Support/cmake-build-debug
